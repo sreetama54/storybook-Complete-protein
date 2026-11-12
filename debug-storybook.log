@@ -1,0 +1,16 @@
+[23:44:25.406] [INFO] storybook v10.6.7
+[23:44:25.614] [DEBUG] Getting package.json info for /Users/sreemitra/Downloads/cp-design-system/package.json...
+[23:44:26.638] [DEBUG] Could not determine @babel/preset-env version in use. In case of runtime errors with @babel/preset-env, you may need to set the babelRemoveBugfixes feature flag in your `main.ts` file.
+[23:44:26.806] [INFO] Starting...
+[23:44:26.966] [DEBUG] Starting preview..
+[23:44:26.971] [DEBUG] [30m[104mRsbuild[49m[39m no config file found.
+[23:44:27.038] [DEBUG] Change detection enabled.
+[23:44:27.130] [DEBUG] Using tsconfig paths for react-docgen
+[23:44:27.242] [DEBUG] Change detection graph built: 7 stories, 19 deps tracked, 147ms
+[23:44:27.276] [ERROR] [38;2;241;97;97mError: listen EADDRINUSE: address already in use 127.0.0.1:6006[39m
+    at Server.setupListenHandle [as _listen2] (node:net:2008:16)
+    at listenInCluster (node:net:2065:12)
+    at node:net:2274:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+[23:44:27.277] [WARN] Broken build, fix the error above.
+You may need to refresh the browser.
